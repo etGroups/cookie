@@ -1,0 +1,25 @@
+{
+	"name": "@etgroups/cookie",
+	"version": "1.0.0",
+	"description": "Simple Js cookie helper",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/etGroups/cookie.git"
+	},
+	"keywords": [
+		"cookie"
+	],
+	"author": "etGroups",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/etGroups/cookie/issues"
+	},
+	"homepage": "https://github.com/etGroups/cookie#readme",
+	"dependencies": {
+		"cookie": "^0.5.0"
+	}
+}
